@@ -2,6 +2,7 @@
 * 112-1學期
 * 清華大學資工系大學部
 * 授課教師:沈之涯
+* 6次上機考+5份程式作業+兩次小考+兩次大考+一份期末專案
 ## Set up 
 * VS Code
 * C++ language 
@@ -14,3 +15,4 @@
 ### HW6 Advanced Graph 
 ## Final Project
 ### Search Engine
+利用C++自製小型搜尋引擎
