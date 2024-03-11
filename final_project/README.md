@@ -2,7 +2,6 @@
 * Input
   * A set of txt files (essays) in the given folder path
   * A given txt file containing search queries
-  * Output file name
   
   * ![image](https://github.com/lillianone02/NTHU-CS-DataStructure/assets/47809755/d78de40a-bc5f-441a-ad8b-d0348c7054d2)
 
