@@ -15,4 +15,4 @@
 ### HW6 Advanced Graph 
 ## Final Project
 ### Search Engine
-利用C++自製小型搜尋引擎
+利用C++自製搜尋引擎
