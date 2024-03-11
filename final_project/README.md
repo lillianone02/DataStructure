@@ -16,4 +16,4 @@
 
 
 * Requirement
-  * ![image](https://github.com/lillianone02/NTHU-CS-DataStructure/assets/47809755/e709f8e1-4088-44ad-8cd0-eec14106c888)
+  * Developed a search engine in C++ for efficiently querying within a collection of essays, implementing a custom data structure Trie to enhance search speed and accuracy.
