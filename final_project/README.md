@@ -16,3 +16,12 @@
 
 * Requirement
   * Developed a search engine in C++ for efficiently querying within a collection of essays, implementing a custom data structure Trie to enhance search speed and accuracy.
+
+
+
+
+
+
+* NTHU CS Data Structure Final
+* Design Efficient Algorithm
+* Tries Insert and Search
